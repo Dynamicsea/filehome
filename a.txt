@@ -1,3 +1,4 @@
 xu fei is a stupid donkey!
 
 xu fei is also a silly pig! 
+Git has a mustable index called stage£¡
