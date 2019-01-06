@@ -5,4 +5,4 @@ Git has a mustable index called stage！
 在dev分支上所做的修改
 在master上做的修改，111。在feature1分支上所做的修改，哈哈哈哈。解决了冲突！
 --no-ff测试
-
+修复issue101bug完成。
